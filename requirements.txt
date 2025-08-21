@@ -1,0 +1,20 @@
+# VitalGuard AI - المتطلبات الأساسية | Essential Requirements
+# نظام التحليل الطبي المتقدم | Advanced Medical Analysis System
+# التحديث الأخير | Last Update: 21 أغسطس 2025 | August 21, 2025
+
+numpy==2.3.2
+pandas==2.3.1
+scikit-learn==1.7.1
+scipy==1.16.1
+joblib==1.5.1
+prophet==1.1.7
+matplotlib==3.10.5
+plotly==6.3.0
+python-dateutil==2.9.0.post0
+holidays==0.79
+psutil==7.0.0
+tqdm==4.67.1
+pytest==7.4.3
+black==25.1.0
+PyYAML==6.0.2
+packaging==25.0
