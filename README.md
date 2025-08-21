@@ -323,7 +323,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### 📞 Support & Contact
 
-- 📧 **Technical Support**: support@vitalguard.dev
+- 📧 **Technical Support**: [Not available for now]
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/AlsaeedHasan/VitalGuard-AI/issues)
 - 💡 **Suggestions**: [GitHub Discussions](https://github.com/AlsaeedHasan/VitalGuard-AI/discussions)
 - 📖 **Complete Documentation**: [MODELS_MANUAL.md](MODELS_MANUAL.md)
@@ -712,7 +712,7 @@ tester.generate_comprehensive_report()
 
 ## 📞 الدعم والتواصل
 
-- 📧 **الدعم الفني**: support@vitalguard.dev
+- 📧 **الدعم الفني**: [Not available for now]
 - 🐛 **إبلاغ الأخطاء**: [GitHub Issues](https://github.com/AlsaeedHasan/VitalGuard-AI/issues)
 - 💡 **الاقتراحات**: [GitHub Discussions](https://github.com/AlsaeedHasan/VitalGuard-AI/discussions)
 - 📖 **الوثائق الكاملة**: [MODELS_MANUAL.md](MODELS_MANUAL.md)
